@@ -11,6 +11,9 @@ class Home extends Component{
   render(){
     return(
       // your code goes here
+      <div>
+        test
+      </div>
     )
   }
 }
